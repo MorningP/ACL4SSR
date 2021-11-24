@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,smbeat.jp
 DOMAIN-SUFFIX,klabgames.net
 #PCR-TW
 DOMAIN-SUFFIX,so-net.tw
+#cgss
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,starlight-stage.jp
+DOMAIN,asset-starlight-stage.akamaized.net
