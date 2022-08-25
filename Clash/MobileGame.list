@@ -4,12 +4,12 @@ DOMAIN,bn-payment.wrightflyer.net
 DOMAIN,ten-sura-m-assets-ap.akamaized.net
 
 #llas
-DOMAIN-SUFFIX,reproio.com
-DOMAIN-SUFFIX,smbeat.jp
-DOMAIN-SUFFIX,ingestsentry.io
-DOMAIN-SUFFIX,ingest.sentry.io
-DOMAIN-SUFFIX,klabgames.net
-DOMAIN,d3rsxkd43tbtwl.cloudfront.net
+#DOMAIN-SUFFIX,reproio.com
+#DOMAIN-SUFFIX,smbeat.jp
+#DOMAIN-SUFFIX,ingestsentry.io
+#DOMAIN-SUFFIX,ingest.sentry.io
+#DOMAIN-SUFFIX,klabgames.net
+#DOMAIN,d3rsxkd43tbtwl.cloudfront.net
 
 #PCR-TW
 DOMAIN-SUFFIX,so-net.tw
