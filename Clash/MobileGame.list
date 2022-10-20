@@ -17,7 +17,9 @@ DOMAIN-SUFFIX,so-net.tw
 #cgss
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,starlight-stage.jp
-DOMAIN,asset-starlight-stage.akamaized.net
+DOMAIN-SUFFIX,asset-starlight-stage.akamaized.net
+DOMAIN,o120089.ingest.sentry.io
+
 
 #PJSK-TW
 DOMAIN,mon-va.tiktokv.com
