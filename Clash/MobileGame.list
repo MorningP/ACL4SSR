@@ -17,7 +17,7 @@ DOMAIN,ten-sura-m-assets-ap.akamaized.net
 #DOMAIN,d3rsxkd43tbtwl.cloudfront.net
 
 #PCR-TW
-DOMAIN-SUFFIX,so-net.tw
+#DOMAIN-SUFFIX,so-net.tw
 
 #cgss
 DOMAIN-SUFFIX,cygames.jp
