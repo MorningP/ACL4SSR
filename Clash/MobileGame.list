@@ -1,3 +1,6 @@
+
+
+
 #qoo
 DOMAIN-SUFFIX,qooapp.io
 DOMAIN-SUFFIX,qoo-app.com
@@ -39,3 +42,10 @@ DOMAIN-SUFFIX,bytedgame.com
 
 #sif
 #DOMAIN-SUFFIX,klabgames.net
+
+
+#sif2
+DOMAIN-SUFFIX,bushimo.jp
+DOMAIN,lovelive-schoolidolfestival2-assets.akamaized.net
+DOMAIN,lovelive-schoolidolfestival2-common.akamaized.net
+DOMAIN-SUFFIX,gree-apps.net
