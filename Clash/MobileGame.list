@@ -1,5 +1,6 @@
 
-
+#genel
+DOMAIN-SUFFIX,ntp.org
 
 #qoo
 DOMAIN-SUFFIX,qooapp.io
@@ -51,3 +52,6 @@ DOMAIN,lovelive-schoolidolfestival2-common.akamaized.net
 DOMAIN,lovelive-schoolidolfestival2-web.akamaized.net
 DOMAIN-SUFFIX,gree-apps.net
 DOMAIN-SUFFIX,amazonaws.com
+
+#neko wars-TW
+DOMAIN-SUFFIX,ponosgames.com
